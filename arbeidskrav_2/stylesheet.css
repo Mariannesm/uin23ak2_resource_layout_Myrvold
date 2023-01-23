@@ -47,6 +47,7 @@ nav a{
     margin-right: 1rem;
     color: var(--DarkGrey);
     border-bottom: 0;
+    cursor: pointer;
 
 }
 
